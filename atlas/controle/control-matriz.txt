@@ -1,0 +1,9 @@
+dominio                                      Vivo      Claro        TIM      V.tal outro-bloq     outras
+cloudflare.com                         resolve(4/4) resolve(7/7) resolve(5/5) resolve(2/2) resolve(5/5)          -
+github.com                             resolve(3/3) resolve(6/6) resolve(5/5) resolve(2/2) resolve(5/5) resolve(1/1)
+google.com                             resolve(3/3) resolve(7/7) resolve(5/5) resolve(2/2) resolve(5/5)          -
+nao-existe-verificabet-7x2q9zk.com      dead(3/3)  dead(7/7)  dead(5/5)  dead(2/2)  dead(5/5)  dead(1/1)
+wikipedia.org                          resolve(2/2) resolve(7/7) resolve(5/5) resolve(2/2) resolve(5/5) resolve(1/1)
+
+LEITURA: google/wikipedia/cloudflare/github devem dar 'resolve' num ISP honesto.
+'nao-existe-*' deve dar 'dead' (NXDOMAIN+SOA). ISP que dá 'block' no google = QUEBRADO → descartar do claim.

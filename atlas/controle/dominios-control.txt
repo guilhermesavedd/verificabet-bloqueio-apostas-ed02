@@ -1,0 +1,9 @@
+# CONTROLE de calibração — validar se os resolvedores ISP funcionam
+# Esperado num resolvedor HONESTO: google/wikipedia/cloudflare/github RESOLVEM;
+# o inexistente dá NXDOMAIN COM SOA (dead). Se um ISP NXDOMAIN o google → resolvedor
+# quebrado, descartar aquela operadora do claim.
+google.com
+wikipedia.org
+cloudflare.com
+github.com
+nao-existe-verificabet-7x2q9zk.com

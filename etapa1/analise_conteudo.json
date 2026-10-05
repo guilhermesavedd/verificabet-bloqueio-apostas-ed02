@@ -1,0 +1,63 @@
+{
+ "escapes": {
+  "OPERANDO": 1226,
+  "SEM_SINAL": 267,
+  "CASCA": 385,
+  "AMBIGUO": 333
+ },
+ "bloqueados": {
+  "OPERANDO": 1651,
+  "AMBIGUO": 211,
+  "SEM_SINAL": 199,
+  "SEM_RESPOSTA": 5,
+  "CASCA": 34
+ },
+ "operando_hoje": 1226,
+ "persistiram": 1163,
+ "novos": 63,
+ "por_trimestre": {
+  "2025-T1": {
+   "OPERANDO": 277,
+   "AMBIGUO": 12,
+   "SEM_SINAL": 8,
+   "CASCA": 3
+  },
+  "2025-T2": {
+   "OPERANDO": 237,
+   "AMBIGUO": 24,
+   "SEM_SINAL": 37,
+   "SEM_RESPOSTA": 2
+  },
+  "2025-T3": {
+   "OPERANDO": 223,
+   "SEM_SINAL": 46,
+   "AMBIGUO": 30,
+   "CASCA": 1
+  },
+  "2025-T4": {
+   "OPERANDO": 209,
+   "SEM_RESPOSTA": 3,
+   "AMBIGUO": 41,
+   "CASCA": 4,
+   "SEM_SINAL": 43
+  },
+  "2026-T1": {
+   "OPERANDO": 238,
+   "AMBIGUO": 39,
+   "SEM_SINAL": 18,
+   "CASCA": 5
+  },
+  "2026-T2": {
+   "OPERANDO": 250,
+   "AMBIGUO": 29,
+   "SEM_SINAL": 17,
+   "CASCA": 4
+  },
+  "2026-T3p": {
+   "OPERANDO": 217,
+   "AMBIGUO": 36,
+   "SEM_SINAL": 30,
+   "CASCA": 17
+  }
+ }
+}

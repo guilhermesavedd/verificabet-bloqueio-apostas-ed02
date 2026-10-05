@@ -1,0 +1,355 @@
+{
+  "amostra_500": {
+    "dominios": 500,
+    "vivos_doh": 437,
+    "pct_vivos": 87.4,
+    "placar": {
+      "Claro": {
+        "sondas": 3,
+        "vivos_medidos": 436,
+        "bloqueia": 1,
+        "pct": 0.2,
+        "ic95": [
+          0.0,
+          1.3
+        ]
+      },
+      "TIM": {
+        "sondas": 3,
+        "vivos_medidos": 437,
+        "bloqueia": 436,
+        "pct": 99.8,
+        "ic95": [
+          98.7,
+          100.0
+        ]
+      },
+      "V.tal": {
+        "sondas": 2,
+        "vivos_medidos": 437,
+        "bloqueia": 429,
+        "pct": 98.2,
+        "ic95": [
+          96.4,
+          99.1
+        ]
+      },
+      "Vivo": {
+        "sondas": 8,
+        "vivos_medidos": 437,
+        "bloqueia": 407,
+        "pct": 93.1,
+        "ic95": [
+          90.4,
+          95.1
+        ]
+      },
+      "outras": {
+        "sondas": 9,
+        "vivos_medidos": 86,
+        "bloqueia": 15,
+        "pct": 17.4,
+        "ic95": [
+          10.9,
+          26.8
+        ]
+      },
+      "outro-bloq": {
+        "sondas": 2,
+        "vivos_medidos": 437,
+        "bloqueia": 437,
+        "pct": 100.0,
+        "ic95": [
+          99.3,
+          100.0
+        ]
+      }
+    },
+    "placar_bruto": {
+      "Claro": {
+        "sondas": 3,
+        "vivos_medidos": 436,
+        "bloqueia": 1,
+        "pct": 0.2,
+        "ic95": [
+          0.0,
+          1.3
+        ]
+      },
+      "TIM": {
+        "sondas": 3,
+        "vivos_medidos": 437,
+        "bloqueia": 436,
+        "pct": 99.8,
+        "ic95": [
+          98.7,
+          100.0
+        ]
+      },
+      "V.tal": {
+        "sondas": 2,
+        "vivos_medidos": 437,
+        "bloqueia": 429,
+        "pct": 98.2,
+        "ic95": [
+          96.4,
+          99.1
+        ]
+      },
+      "Vivo": {
+        "sondas": 9,
+        "vivos_medidos": 437,
+        "bloqueia": 356,
+        "pct": 81.5,
+        "ic95": [
+          77.6,
+          84.8
+        ]
+      },
+      "outras": {
+        "sondas": 9,
+        "vivos_medidos": 86,
+        "bloqueia": 15,
+        "pct": 17.4,
+        "ic95": [
+          10.9,
+          26.8
+        ]
+      },
+      "outro-bloq": {
+        "sondas": 2,
+        "vivos_medidos": 437,
+        "bloqueia": 437,
+        "pct": 100.0,
+        "ic95": [
+          99.3,
+          100.0
+        ]
+      }
+    },
+    "sondas_bypass": [
+      1017265
+    ],
+    "dns_publico": {
+      "comparacoes": 1295,
+      "publico_resolve": 1292,
+      "pct_publico_resolve": 99.8,
+      "operadoras_das_sondas": {
+        "outro-bloq": 437,
+        "V.tal": 858
+      },
+      "respostas_publicas": 4880,
+      "publicas_sem_endereco": {
+        "vivo": 36,
+        "morto": 626
+      }
+    }
+  },
+  "censo_20567": {
+    "dominios": 20567,
+    "vivos_doh": 18783,
+    "pct_vivos": 91.3,
+    "placar": {
+      "Claro": {
+        "sondas": 4,
+        "vivos_medidos": 16162,
+        "bloqueia": 20,
+        "pct": 0.1,
+        "ic95": [
+          0.1,
+          0.2
+        ]
+      },
+      "TIM": {
+        "sondas": 2,
+        "vivos_medidos": 18775,
+        "bloqueia": 17235,
+        "pct": 91.8,
+        "ic95": [
+          91.4,
+          92.2
+        ]
+      },
+      "V.tal": {
+        "sondas": 2,
+        "vivos_medidos": 18780,
+        "bloqueia": 14758,
+        "pct": 78.6,
+        "ic95": [
+          78.0,
+          79.2
+        ]
+      },
+      "Vivo": {
+        "sondas": 5,
+        "vivos_medidos": 18782,
+        "bloqueia": 17263,
+        "pct": 91.9,
+        "ic95": [
+          91.5,
+          92.3
+        ]
+      },
+      "outras": {
+        "sondas": 9,
+        "vivos_medidos": 3754,
+        "bloqueia": 469,
+        "pct": 12.5,
+        "ic95": [
+          11.5,
+          13.6
+        ]
+      },
+      "outro-bloq": {
+        "sondas": 2,
+        "vivos_medidos": 18776,
+        "bloqueia": 18711,
+        "pct": 99.7,
+        "ic95": [
+          99.6,
+          99.7
+        ]
+      }
+    },
+    "placar_bruto": {
+      "Claro": {
+        "sondas": 4,
+        "vivos_medidos": 16162,
+        "bloqueia": 20,
+        "pct": 0.1,
+        "ic95": [
+          0.1,
+          0.2
+        ]
+      },
+      "TIM": {
+        "sondas": 2,
+        "vivos_medidos": 18775,
+        "bloqueia": 17235,
+        "pct": 91.8,
+        "ic95": [
+          91.4,
+          92.2
+        ]
+      },
+      "V.tal": {
+        "sondas": 2,
+        "vivos_medidos": 18780,
+        "bloqueia": 14758,
+        "pct": 78.6,
+        "ic95": [
+          78.0,
+          79.2
+        ]
+      },
+      "Vivo": {
+        "sondas": 10,
+        "vivos_medidos": 18782,
+        "bloqueia": 17086,
+        "pct": 91.0,
+        "ic95": [
+          90.6,
+          91.4
+        ]
+      },
+      "outras": {
+        "sondas": 9,
+        "vivos_medidos": 3754,
+        "bloqueia": 469,
+        "pct": 12.5,
+        "ic95": [
+          11.5,
+          13.6
+        ]
+      },
+      "outro-bloq": {
+        "sondas": 2,
+        "vivos_medidos": 18776,
+        "bloqueia": 18711,
+        "pct": 99.7,
+        "ic95": [
+          99.6,
+          99.7
+        ]
+      }
+    },
+    "sondas_bypass": [
+      52245,
+      1007801,
+      1009896,
+      1017112,
+      1017265
+    ],
+    "dns_publico": {
+      "comparacoes": 66071,
+      "publico_resolve": 65977,
+      "pct_publico_resolve": 99.9,
+      "operadoras_das_sondas": {
+        "outro-bloq": 37350,
+        "V.tal": 28721
+      },
+      "respostas_publicas": 211268,
+      "publicas_sem_endereco": {
+        "vivo": 1274,
+        "morto": 18138
+      }
+    },
+    "vazamento": {
+      "vivos": 18783,
+      "medidos_nas_3_grandes": 18773,
+      "passa": {
+        "Vivo": 1518,
+        "TIM": 1540,
+        "V.tal": 4022,
+        "outro-bloq": 65
+      },
+      "vivo_e_tim": 1518,
+      "vivo_e_vtal": 0,
+      "tim_e_vtal": 0,
+      "nas_3": 0,
+      "so_vivo": 0,
+      "so_tim": 22,
+      "so_vtal": 4022,
+      "bloqueados_nas_4_bloqueadoras": 13145,
+      "pct_bloqueados_nas_4": 70.0,
+      "escapa_em_ao_menos_1_grande": 5562,
+      "pct_escapa_em_ao_menos_1_grande": 29.6
+    }
+  },
+  "lista_15_09": {
+    "dominios_registraveis": 71155,
+    "terminam_em_br": 1077,
+    "pct_br": 1.5,
+    "por_sufixo": {
+      "com.br": 869,
+      "net.br": 186
+    },
+    "outros_br": 22,
+    "bet_br": 4,
+    "fora_do_br": 70078,
+    "pct_fora_do_br": 98.5,
+    "br_no_vazamento_vivo_tim": {
+      "n": 1518,
+      "br": 58,
+      "pct": 3.8
+    },
+    "br_no_vazamento_vtal": {
+      "n": 4022,
+      "br": 346,
+      "pct": 8.6
+    }
+  },
+  "proveniencia": {
+    "amostra-500/estado.jsonl": "fad85536d0dfbae8b3e7c11de6eecbec",
+    "amostra-500/resultados.jsonl": "7e101cbfbdeec466f33557f817080370",
+    "amostra-500/sondas.csv": "4d239b28613f2568f4c3794753235960",
+    "amostra-500/placar_operadora.csv": "20cbd6c625d2adb070160dc4d1203f46",
+    "amostra-500/vereditos_dominio.csv": "9aaa3954b6ae1dc6b944eb6bc8987e08",
+    "censo-20567/estado.jsonl": "1d77cc00ca3abef545daa834f1b492e6",
+    "censo-20567/resultados.jsonl.gz": "7dfbc9da897f6cbe5ff21c83b51f1550",
+    "censo-20567/sondas.csv": "0c653d0cd58d866e831ae9ba161dc0af",
+    "censo-20567/placar_operadora.csv": "73f07bc7a11bfa9cf18b9af11864c345",
+    "censo-20567/vereditos_dominio.csv": "f6567dd3641dcfa6875166fe971dad36",
+    "lai/lai-dominios-registraveis.txt": "24a1a4285b60bea2fce42b4395e81d4d"
+  }
+}

@@ -1,0 +1,7 @@
+operadora,n_probes,dom_medidos,resolve,block,dead,vivos_medidos,block_entre_vivos,pct_block_vivos,ic95_low,ic95_high
+Claro,6,499,435,14,50,436,1,0.2,0.0,1.3
+TIM,3,500,1,499,0,437,436,99.8,98.7,100.0
+V.tal,2,500,8,492,0,437,429,98.2,96.4,99.1
+Vivo,10,500,81,413,6,437,356,81.5,77.6,84.8
+outras,32,489,244,220,25,426,182,42.7,38.1,47.5
+outro-bloq,2,500,0,500,0,437,437,100.0,99.3,100.0
